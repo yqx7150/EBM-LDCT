@@ -38,7 +38,8 @@ key number is "ebm1"
 
   * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9703672)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
-
-
+      
+  * MRI Reconstruction Using Deep Energy-Based Model     
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2109.03237)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EBMRec)        
 
 

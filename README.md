@@ -42,6 +42,6 @@ key number is "ebm1"
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9703672)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
       
   * MRI Reconstruction Using Deep Energy-Based Model     
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2109.03237)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EBMRec)        
+[<font size=5>**[Paper]**</font>](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4848)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EBMRec)        
 
 

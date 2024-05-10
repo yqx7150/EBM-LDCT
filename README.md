@@ -44,4 +44,6 @@ key number is "ebm1"
   * MRI Reconstruction Using Deep Energy-Based Model     
 [<font size=5>**[Paper]**</font>](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4848)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EBMRec)        
 
+  * Wavelet-improved score-based generative model for medical imaging  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10288274)
 

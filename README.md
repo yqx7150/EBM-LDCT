@@ -40,6 +40,9 @@ key number is "ebm1"
 
   * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9703672)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
+
+  * One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10506793)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/OSDM)
       
   * MRI Reconstruction Using Deep Energy-Based Model     
 [<font size=5>**[Paper]**</font>](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4848)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EBMRec)        
